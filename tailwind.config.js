@@ -7,6 +7,13 @@ module.exports = {
   ],
   theme: {
     extend: {
+      colors: {
+        main: '#FFCBA5'
+      },
+      fontFamily: {
+        sans: ['Karla'],
+        mono: ['DM Mono'],
+      },
       backgroundImage: {
         'gradient-radial': 'radial-gradient(var(--tw-gradient-stops))',
         'gradient-conic':
