@@ -21,8 +21,8 @@ const CitaGratuita = () => {
               <input placeholder='Nombre *' />
               <input placeholder='Apellidos *' />
               <input placeholder='Teléfono *' />
+              <input type='submit' className='min-w-[27.56rem] w-full mt-[3.38rem]' value='Enviar' />
             </form>
-            <button className='min-w-[27.56rem] w-full mt-[3.38rem]'>Enviar</button>
           </div>
         </div>
       </div>

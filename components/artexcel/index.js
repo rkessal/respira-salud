@@ -7,7 +7,7 @@ const ArtExcel = () => {
   return (
     <section>
       <Title>ARTEXCEL</Title>
-      <div className='flex -mt-36 sm:flex-row'>
+      <div className='flex -mt-[3.5rem] sm:flex-row'>
         <figure className='ml-[2.375rem]'>
           <Image src='/artexcel.png' alt='art excel' width={693} height={994} />
         </figure>

@@ -27,7 +27,7 @@ const Cursos = () => {
   return (
     <Servicio
       number='02'
-      title='Entrenamientos personalizados online'
+      title='Cursos & Actividades'
       unwraps={unwraps}
       link='#'
       image={image}

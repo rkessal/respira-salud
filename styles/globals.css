@@ -21,7 +21,8 @@ input::placeholder {
   opacity: 0.6;
 }
 
-button {
+input[type=submit] {
+  cursor: pointer;
   background: black;
   padding: 0.81rem;
   font-family: monospace;
